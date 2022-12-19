@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @reinhardt021
-- 👀 I’m interested in spaces both physical and digital
-- 🌱 I’m currently learning how to build apps people pay for
+- Hi, I’m @reinhardt021 👋
+- Builder of digital & physical tools
+- Learning how to build apps people pay for 🌱
 
 <!---
 reinhardt021/reinhardt021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
